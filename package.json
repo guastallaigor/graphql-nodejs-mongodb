@@ -1,0 +1,26 @@
+{
+  "name": "graphql-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guastallaigor/graphql-nodejs-mongodb.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "mongoose": "^5.3.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guastallaigor/graphql-nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/guastallaigor/graphql-nodejs-mongodb#readme"
+}
